@@ -1,0 +1,15 @@
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+.project {
+    background-color: #ecf0f1;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-left: 4px solid #3498db;
+}
+
+p {
+    line-height: 1.6;
+}
